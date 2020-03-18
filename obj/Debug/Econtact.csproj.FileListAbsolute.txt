@@ -1,0 +1,9 @@
+C:\Users\Abdullah\Desktop\C#application\Econtact\bin\Debug\Econtact.exe.config
+C:\Users\Abdullah\Desktop\C#application\Econtact\bin\Debug\Econtact.exe
+C:\Users\Abdullah\Desktop\C#application\Econtact\bin\Debug\Econtact.pdb
+C:\Users\Abdullah\Desktop\C#application\Econtact\obj\Debug\Econtact.csprojAssemblyReference.cache
+C:\Users\Abdullah\Desktop\C#application\Econtact\obj\Debug\Econtact.Econtant.resources
+C:\Users\Abdullah\Desktop\C#application\Econtact\obj\Debug\Econtact.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\C#application\Econtact\obj\Debug\Econtact.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\C#application\Econtact\obj\Debug\Econtact.exe
+C:\Users\Abdullah\Desktop\C#application\Econtact\obj\Debug\Econtact.pdb
